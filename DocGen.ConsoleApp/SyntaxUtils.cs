@@ -11,7 +11,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace testMSBuild
+namespace DocGen.ConsoleApp
 {
     public static class SyntaxUtils
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace testMSBuild
+namespace DocGen.ConsoleApp
 {
     class Program
     {
