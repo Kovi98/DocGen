@@ -28,8 +28,8 @@ namespace DocGen.ConsoleApp
                     SyntaxUtils.LogWriter?.Log(e.Message + ": " + e.Source, LogWriter.LogType.Error);
                 }
             } while (repeat);
-            Console.WriteLine("Pro ukončení stiskněte libovolnou klávesu");
-            Console.ReadKey();
+            //Console.WriteLine("Pro ukončení stiskněte libovolnou klávesu");
+            //Console.ReadKey();
         }
     }
 }
